@@ -9,10 +9,10 @@ Type at the command prompt java –jar export <sourceDir> <targetDir> <zipDir>  
 
 #Examples
 Debug on
-java -jar Excelcsv.jar "C:\\xlstocsv\\excel" "C:\\xlstocsv\\csv" "C:\\xlstocsv\\zip" true
+java -jar ExportMultiExcel-jar-with-dependencies.jar "C:\\xlstocsv\\excel" "C:\\xlstocsv\\csv" "C:\\xlstocsv\\zip" true
 
 Debug Off
-java -jar Excelcsv.jar "C:\\xlstocsv\\excel" "C:\\xlstocsv\\csv" "C:\\xlstocsv\\zip"
+java -jar ExportMultiExcel-jar-with-dependencies.jar "C:\\xlstocsv\\excel" "C:\\xlstocsv\\csv" "C:\\xlstocsv\\zip"
 
 
 Debug True will show comments
