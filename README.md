@@ -17,3 +17,6 @@ java -jar Excelcsv.jar "C:\\xlstocsv\\excel" "C:\\xlstocsv\\csv" "C:\\xlstocsv\\
 
 Debug True will show comments
 
+#Maven
+mvn install
+
